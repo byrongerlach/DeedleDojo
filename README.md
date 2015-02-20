@@ -13,3 +13,11 @@ https://github.com/byrongerlach/DeedleDojo/tree/master/DeedleDojo/data/stocks
 The Deedle and FSharpCharting libraries here:
 https://github.com/byrongerlach/DeedleDojo/tree/master/packages
 
+If you start with a new project, just add these packages from Nuget:
+
+Deedle: https://www.nuget.org/packages/Deedle
+
+FSharp.Charting: https://www.nuget.org/packages/FSharp.Charting/
+
+More data sets and examples are also available at the Deedle Github site:
+https://github.com/BlueMountainCapital/Deedle/tree/master/docs/content
