@@ -53,6 +53,8 @@
     <None Include="packages.config" />
     <None Include="app.config" />
     <None Include="deedle_tutorial.fsx" />
+    <None Include="titanic_dojo.fsx" />
+    <None Include="titanic_dojo_example_solution.fsx" />
   </ItemGroup>
   <PropertyGroup>
     <MinimumVisualStudioVersion Condition="'$(MinimumVisualStudioVersion)' == ''">11</MinimumVisualStudioVersion>

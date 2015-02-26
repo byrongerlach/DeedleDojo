@@ -45,3 +45,22 @@ let survivals =
     |> Frame.indexColsWith ["Died"; "Survived"]
 
 survivals
+
+// Now try TASK #1: Find out how likely is person to survive based on their
+// age group. You can take age groups 0-10, 10-20, 20-30 etc.
+//
+// To do this, you can mostly adapt the code from above
+// (rather than grouping by Pclass, group by a new column AgeGroup that
+// you calculate and add based on the Age column, or use AgeGroup as the key).
+
+
+// Can you make a bar chart of the age groups versus the chance of survival? 
+
+// Your solution here........ 
+
+
+// TASK #2: 
+// What was the median fare price for those who survived versus those who didn't?
+// Your solution here........
+
+
